@@ -155,21 +155,21 @@ font-weight: bold;
   -moz-box-shadow: 5px 6px 18px 0px rgba(209,209,209,0.75);
   }
   .contact-single{
-    padding: 0.5rem;
+    padding: 0.3rem;
     display:flex;
     justify-content: space-between;
     align-items: center;
-    gap: 1rem;
+    gap: 0.5rem;
     border-bottom: 0.01rem solid rgb(75, 174, 255);
     transition: all 0.7s;
   }
   .contact-single:hover{
-  padding: 0.5rem;
+  padding: 0.3rem;
   background: rgba(18, 180, 255, 0.486);
     display:flex;
     justify-content: space-between;
     align-items: center;
-    gap: 1rem;
+    gap: 0.5rem;
     border-bottom: 0.01rem solid rgb(60, 60, 63);
     transition: all 0.7s;
   }

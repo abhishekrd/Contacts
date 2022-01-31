@@ -8,8 +8,8 @@ const ContactSingle = (props) => {
   return (
     <div className='contact-single'>
       <div className='logos'>
-     <a href={`tel:${mobile}`}> <img src={call} style={{width:45}}></img></a>
-      <img src={userlogo} style={{width:45}}></img>
+     <a href={`tel:${mobile}`}> <img src={call} alt='call' style={{width:45}}></img></a>
+      <img src={userlogo} alt="user" style={{width:45}}></img>
       </div>
       <div className='contact-main'>
     <h3 className='header'>{name}</h3>
